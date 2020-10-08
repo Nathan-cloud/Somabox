@@ -3465,7 +3465,10 @@ ul.feature-icons li:nth-child(2) {
 }
 
 #wrapper .copyright a {
-	color: inherit;
+	color: rgb(0, 183, 255);
+}
+#wrapper .copyright p {
+	color: #000000;
 }
 
 #wrapper section {
